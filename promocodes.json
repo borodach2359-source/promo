@@ -1,0 +1,9 @@
+{
+  "promocodes": [
+    {
+      "code": "THAI100",
+      "discount_per_person": 100,
+      "enabled": true
+    }
+  ]
+}
