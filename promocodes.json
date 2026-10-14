@@ -1,7 +1,7 @@
 {
   "promocodes": [
     {
-      "code": "THAI100",
+      "code": "GIFT",
       "discount_per_person": 100,
       "enabled": true
     }
